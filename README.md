@@ -1,2 +1,2 @@
 # daphnis
- daphnis py UI interface template on Django
+ Daphnis Alpha interactive maths with glowscript python and templates from django
